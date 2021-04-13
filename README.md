@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my Profile 🙂👋
+
+- 🔭 I’m currently working on **React** with **Typescript**, **Webpack** and **GoLang**.
+- 🌱 I’m currently learning **Data Science** and **Machine Learning**.
+- 👯 I’m looking to collaborate on any open source project.
+- 📫 How to reach me: **Email** - prafful.jagtap1995@gmail.com
+
 
 <!--
 **praffuljagtap/praffuljagtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
